@@ -1,5 +1,6 @@
 #!/usr/bin/python
-namel = 'abhishek pradhan'
-nameu = namel.swapcase()
-namet = namel.title()
+name = 'abhishek prAdhan'
+namel = name.lower()
+nameu = name.upper()
+namet = name.title()
 print(namel,nameu,namet)
